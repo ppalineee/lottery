@@ -10,12 +10,12 @@ starport serve
 
 `serve` command installs dependencies, initializes and runs the application.
 
-### 
+___
 
 ** Do not `npm install` in Vue
 This application normally runs on gitpod, not local. We already changed many files in vue/node_modules.
 
-### 
+___
 
 -- Directory 
 lottery/
@@ -36,6 +36,7 @@ lottery/
 │  │  ├─ types/
 │  │  ├─ spec/
 
+___
 
 ## Use mnemonic to sigin
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/signin.png" width="800">
