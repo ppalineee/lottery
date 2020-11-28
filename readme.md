@@ -22,19 +22,25 @@ This application normally runs on gitpod, not local. We already changed many fil
     - hadler Controller for handleMsgCreate*.go
     - handleRestMsg From Vue
 
-- use mnemonic to sigin
+## use mnemonic to sigin
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/signin.png" width="800">
 
-- go to /announce and paste id lottery to announce lottery
+## To create lottery
+### example
+<img src="https://github.com/ppalineee/lottery/blob/main/pic/createlottery.png" width="800">
+
+## If everything works correctly: the lottery will show in lottery list
+<img src="https://github.com/ppalineee/lottery/blob/main/pic/lotterylist.png" width="800">
+
+## Buy ticket by using id and number
+<img src="https://github.com/ppalineee/lottery/blob/main/pic/buyticket.png" width="800">
+
+## If everything works correctly: the tickets will show in ticketlist
+<img src="https://github.com/ppalineee/lottery/blob/main/pic/ticketlist.png" width="800">
+
+
+## go to /announce and paste id lottery to announce lottery
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/announce.png" width="800">
 
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/announcelist.png" width="800">
-
-<img src="https://github.com/ppalineee/lottery/blob/main/pic/buyticket.png" width="800">
-
-<img src="https://github.com/ppalineee/lottery/blob/main/pic/createlottery.png" width="800">
-
-<img src="https://github.com/ppalineee/lottery/blob/main/pic/lotterylist.png" width="800">
-
-<img src="https://github.com/ppalineee/lottery/blob/main/pic/ticketlist.png" width="800">
 
