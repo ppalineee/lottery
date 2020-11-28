@@ -19,13 +19,13 @@ ___
 
 -- Directory --
 lottery/
-├─ .pi_
-├─ .vscode_
-├─ app_
-├─ cmd_
-├─ node_module_
-├─ pic_
-├─ vue_
+├─ .pi__
+├─ .vscode__
+├─ app__
+├─ cmd__
+├─ node_module__
+├─ pic__
+├─ vue__
 │  ├─ node_modules_
 │  ├─ public_
 │  ├─ src_
