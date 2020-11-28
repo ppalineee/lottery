@@ -23,6 +23,6 @@ This application normally runs on gitpod, not local. We already changed many fil
     - handleRestMsg From Vue
     
 ![alt text](https://github.com/ppalineee/lottery/blob/main/pic/announce.png)
-
+- go to /announce and paste id lottery to announce lottery
 ![alt text](https://github.com/ppalineee/lottery/blob/main/pic/announcelist.png)
 
