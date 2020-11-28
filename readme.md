@@ -21,9 +21,12 @@ This application normally runs on gitpod, not local. We already changed many fil
   - x/lottery/handleMsgCreate*.go
     - hadler Controller for handleMsgCreate*.go
     - handleRestMsg From Vue
-    
-![alt text](https://github.com/ppalineee/lottery/blob/main/pic/announce.png)
+
+- use mnemonic to sigin
+![alt text](https://github.com/ppalineee/lottery/blob/main/pic/signin.png)
+
 - go to /announce and paste id lottery to announce lottery
+![alt text](https://github.com/ppalineee/lottery/blob/main/pic/announce.png)
 ![alt text](https://github.com/ppalineee/lottery/blob/main/pic/announcelist.png)
 
 ![alt text](https://github.com/ppalineee/lottery/blob/main/pic/buyticket.png)
@@ -32,6 +35,6 @@ This application normally runs on gitpod, not local. We already changed many fil
 
 ![alt text](https://github.com/ppalineee/lottery/blob/main/pic/lotterylist.png)
 
-![alt text](https://github.com/ppalineee/lottery/blob/main/pic/signin.png)
+
 
 ![alt text](https://github.com/ppalineee/lottery/blob/main/pic/ticketlist.png)
