@@ -12,7 +12,7 @@ starport serve
 
 ___
 
-** Do not `npm install` in Vue
+## Do not `npm install` in Vue
 This application normally runs on gitpod, not local. We already changed many files in vue/node_modules.
 
 ___
