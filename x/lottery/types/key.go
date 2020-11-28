@@ -13,3 +13,16 @@ const (
 	// QuerierRoute to be used for querier msgs
 	QuerierRoute = ModuleName
 )
+
+const (
+	LotteryPrefix = "lottery-"
+)
+		
+const (
+	TicketPrefix = "ticket-"
+)
+		
+const (
+	PrizeAnnouncePrefix = "prizeAnnounce-"
+)
+		

@@ -23,6 +23,15 @@ func GetTxCmd(cdc *codec.Codec) *cobra.Command {
 
 	lotteryTxCmd.AddCommand(flags.PostCommands(
     // this line is used by starport scaffolding # 1
+		GetCmdCreatePrizeAnnounce(cdc),
+		GetCmdSetPrizeAnnounce(cdc),
+		GetCmdDeletePrizeAnnounce(cdc),
+		GetCmdCreateTicket(cdc),
+		GetCmdSetTicket(cdc),
+		GetCmdDeleteTicket(cdc),
+		GetCmdCreateLottery(cdc),
+		GetCmdSetLottery(cdc),
+		GetCmdDeleteLottery(cdc),
 	)...)
 
 	return lotteryTxCmd

@@ -30,7 +30,13 @@ func GetQueryCmd(queryRoute string, cdc *codec.Codec) *cobra.Command {
 	lotteryQueryCmd.AddCommand(
 		flags.GetCommands(
       // this line is used by starport scaffolding # 1
-		)...,
+			GetCmdListPrizeAnnounce(queryRoute, cdc),
+			GetCmdGetPrizeAnnounce(queryRoute, cdc),
+			GetCmdListTicket(queryRoute, cdc),
+			GetCmdGetTicket(queryRoute, cdc),
+			GetCmdListLottery(queryRoute, cdc),
+			GetCmdGetLottery(queryRoute, cdc),
+		)...
 	)
 
 	return lotteryQueryCmd
