@@ -19,22 +19,22 @@ ___
 
 -- Directory 
 lottery/
-├─ .pi/
-├─ .vscode/
-├─ app/
-├─ cmd/
-├─ node_module/
-├─ pic/
-├─ vue/
-│  ├─ node_modules/
-│  ├─ public/
-│  ├─ src/
-├─ x/
-│  ├─ lottery/
-│  │  ├─ client/
-│  │  ├─ keeper/
-│  │  ├─ types/
-│  │  ├─ spec/
+├─ .pi_
+├─ .vscode_
+├─ app_
+├─ cmd_
+├─ node_module_
+├─ pic_
+├─ vue_
+│  ├─ node_modules_
+│  ├─ public_
+│  ├─ src_
+├─ x_
+│  ├─ lottery_
+│  │  ├─ client_
+│  │  ├─ keeper_
+│  │  ├─ types_
+│  │  ├─ spec_
 
 ___
 
