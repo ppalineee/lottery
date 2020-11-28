@@ -16,7 +16,7 @@ ___
 This application normally runs on gitpod, not local. We already changed many files in vue/node_modules.
 
 ___
-
+```bash
 -- Directory --
 lottery/
 ├─ .pi__
@@ -35,7 +35,7 @@ lottery/
 │  │  ├─ keeper_
 │  │  ├─ types_
 │  │  ├─ spec_
-
+```
 ___
 
 ## Use mnemonic to sigin
