@@ -32,7 +32,7 @@ This application normally runs on gitpod, not local. We already changed many fil
 - price: 10token
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/createlottery.png" width="800">
 
-## If everything works correctly: the lottery will show in lottery list
+### If everything works correctly: the lottery will show in lottery list
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/lotterylist.png" width="800">
 
 ## go to /ticket to Buy ticket by using id and number
@@ -40,7 +40,7 @@ This application normally runs on gitpod, not local. We already changed many fil
 - number: 0-9
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/buyticket.png" width="800">
 
-## If everything works correctly: the tickets will show in ticketlist
+### If everything works correctly: the tickets will show in ticketlist
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/ticketlist.png" width="800">
 
 
@@ -48,7 +48,7 @@ This application normally runs on gitpod, not local. We already changed many fil
 - announce by lotteryID
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/announce.png" width="800">
 
-## If everything works correctly: the announce will show in announcelist
+### If everything works correctly: the announce will show in announcelist
 - date time > drawdate
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/announcelist.png" width="800">
 
