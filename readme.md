@@ -38,6 +38,7 @@ This application normally runs on gitpod, not local. We already changed many fil
 ## Go to /ticket to Buy ticket by using id and number
 - lotteyID: string
 - number: 0-9
+- time.Now() < drawdate
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/buyticket.png" width="800">
 
 ### If everything works correctly: the tickets will show in ticketlist
@@ -49,6 +50,6 @@ This application normally runs on gitpod, not local. We already changed many fil
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/announce.png" width="800">
 
 ### If everything works correctly: the announce will show in announcelist
-- date time > drawdate
+- time.Now() > drawdate
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/announcelist.png" width="800">
 
