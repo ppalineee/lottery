@@ -22,11 +22,15 @@ This application normally runs on gitpod, not local. We already changed many fil
     - hadler Controller for handleMsgCreate*.go
     - handleRestMsg From Vue
 
-## use mnemonic to sigin
+## Use mnemonic to sigin
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/signin.png" width="800">
 
 ## To create lottery
 ### example
+- name: string
+- detail: string
+- reward: 100token
+- price: 10token
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/createlottery.png" width="800">
 
 ## If everything works correctly: the lottery will show in lottery list
