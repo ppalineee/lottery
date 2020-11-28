@@ -26,7 +26,6 @@ This application normally runs on gitpod, not local. We already changed many fil
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/signin.png" width="800">
 
 ## To create lottery
-### example
 - name: string
 - detail: string
 - reward: 100token
@@ -36,7 +35,9 @@ This application normally runs on gitpod, not local. We already changed many fil
 ## If everything works correctly: the lottery will show in lottery list
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/lotterylist.png" width="800">
 
-## Buy ticket by using id and number
+## go to /ticket to Buy ticket by using id and number
+- lotteyID: string
+- number: 0-9
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/buyticket.png" width="800">
 
 ## If everything works correctly: the tickets will show in ticketlist
@@ -44,7 +45,10 @@ This application normally runs on gitpod, not local. We already changed many fil
 
 
 ## go to /announce and paste id lottery to announce lottery
+- announce by lotteryID
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/announce.png" width="800">
 
+## If everything works correctly: the announce will show in announcelist
+- date time > drawdate
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/announcelist.png" width="800">
 
