@@ -23,17 +23,18 @@ This application normally runs on gitpod, not local. We already changed many fil
     - handleRestMsg From Vue
 
 - use mnemonic to sigin
-![alt text](https://github.com/ppalineee/lottery/blob/main/pic/signin.png)
+<img src="https://github.com/ppalineee/lottery/blob/main/pic/signin.png" width="800">
 
 - go to /announce and paste id lottery to announce lottery
-![alt text](https://github.com/ppalineee/lottery/blob/main/pic/announce.png)
-![alt text](https://github.com/ppalineee/lottery/blob/main/pic/announcelist.png)
+<img src="https://github.com/ppalineee/lottery/blob/main/pic/announce.png" width="800">
 
-![alt text](https://github.com/ppalineee/lottery/blob/main/pic/buyticket.png)
+<img src="https://github.com/ppalineee/lottery/blob/main/pic/announcelist.png" width="800">
 
-![alt text](https://github.com/ppalineee/lottery/blob/main/pic/createlottery.png)
+<img src="https://github.com/ppalineee/lottery/blob/main/pic/buyticket.png" width="800">
 
-![alt text](https://github.com/ppalineee/lottery/blob/main/pic/lotterylist.png)
+<img src="https://github.com/ppalineee/lottery/blob/main/pic/createlottery.png" width="800">
+
+<img src="https://github.com/ppalineee/lottery/blob/main/pic/lotterylist.png" width="800">
 
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/ticketlist.png" width="800">
 
