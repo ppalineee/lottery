@@ -35,6 +35,5 @@ This application normally runs on gitpod, not local. We already changed many fil
 
 ![alt text](https://github.com/ppalineee/lottery/blob/main/pic/lotterylist.png)
 
+<img src="https://github.com/ppalineee/lottery/blob/main/pic/ticketlist.png" width="250">
 
-
-![alt text](https://github.com/ppalineee/lottery/blob/main/pic/ticketlist.png)
