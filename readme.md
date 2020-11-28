@@ -22,7 +22,7 @@ This application normally runs on gitpod, not local. We already changed many fil
     - hadler Controller for handleMsgCreate*.go
     - handleRestMsg From Vue
     
-![alt text](https://github.com/ppalineee/lottery/pic/announce.png)
+![alt text](https://github.com/ppalineee/lottery/tree/main/pic/announce.png)
 
-![alt text](https://github.com/ppalineee/lottery/pic/announcelist.png)
+![alt text](https://github.com/ppalineee/lottery/tree/main/pic/announcelist.png)
 
