@@ -35,7 +35,7 @@ This application normally runs on gitpod, not local. We already changed many fil
 ### If everything works correctly: the lottery will show in lottery list
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/lotterylist.png" width="800">
 
-## go to /ticket to Buy ticket by using id and number
+## Go to /ticket to Buy ticket by using id and number
 - lotteyID: string
 - number: 0-9
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/buyticket.png" width="800">
@@ -44,7 +44,7 @@ This application normally runs on gitpod, not local. We already changed many fil
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/ticketlist.png" width="800">
 
 
-## go to /announce and paste id lottery to announce lottery
+## Go to /announce and paste id lottery to announce lottery
 - announce by lotteryID
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/announce.png" width="800">
 
