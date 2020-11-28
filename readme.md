@@ -22,3 +22,14 @@ This application normally runs on gitpod, not local. We already changed many fil
     - hadler Controller for handleMsgCreate*.go
     - handleRestMsg From Vue
     
+var routes = (
+  <Route name="App">
+    <Route name="Admin">
+      <Route name="Users"/>
+      <Route name="Reports"/>
+    </Route>
+    <Route name="Course">
+      <Route name="Assignments"/>
+    </Route>
+  </Route>
+);
