@@ -17,7 +17,7 @@ This application normally runs on gitpod, not local. We already changed many fil
 
 ___
 
--- Directory 
+-- Directory --
 lottery/
 ├─ .pi_
 ├─ .vscode_
