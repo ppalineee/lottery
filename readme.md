@@ -19,22 +19,22 @@ ___
 ```bash
 -- Directory --
 lottery/
-├─ .pi__
-├─ .vscode__
-├─ app__
-├─ cmd__
-├─ node_module__
-├─ pic__
-├─ vue__
-│  ├─ node_modules_
-│  ├─ public_
-│  ├─ src_
-├─ x_
-│  ├─ lottery_
-│  │  ├─ client_
-│  │  ├─ keeper_
-│  │  ├─ types_
-│  │  ├─ spec_
+├─ .pi
+├─ .vscode
+├─ app
+├─ cmd
+├─ node_module
+├─ pic
+├─ vue
+│  ├─ node_modules
+│  ├─ public
+│  ├─ src
+├─ x
+│  ├─ lottery
+│  │  ├─ client
+│  │  ├─ keeper
+│  │  ├─ types
+│  │  ├─ spec
 ```
 ___
 
