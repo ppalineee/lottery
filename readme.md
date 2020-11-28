@@ -18,13 +18,24 @@ This application normally runs on gitpod, not local. We already changed many fil
 ### 
 
 -- Directory 
-  - vue 
-    contain Frontend UI/logic
-  - x/lottery 
-    - Bussiness logic link to Frontend
-  - x/lottery/handleMsgCreate*.go
-    - hadler Controller for handleMsgCreate*.go
-    - handleRestMsg From Vue
+lottery/
+├─ .pi/
+├─ .vscode/
+├─ app/
+├─ cmd/
+├─ node_module/
+├─ pic/
+├─ vue/
+│  ├─ node_modules/
+│  ├─ public/
+│  ├─ src/
+├─ x/
+│  ├─ lottery/
+│  │  ├─ client/
+│  │  ├─ keeper/
+│  │  ├─ types/
+│  │  ├─ spec/
+
 
 ## Use mnemonic to sigin
 <img src="https://github.com/ppalineee/lottery/blob/main/pic/signin.png" width="800">
